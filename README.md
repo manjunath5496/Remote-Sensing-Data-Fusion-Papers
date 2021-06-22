@@ -35,10 +35,9 @@ Single-Image Denoising, Inpainting, Super-Resolution</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Remote-Sensing-Data-Fusion-Papers/blob/master/d(18).pdf" style="text-decoration:none;">Optical and Polarimetric SAR Data Fusion Terrain Classification Using Probabilistic Feature Fusion</a></li> 
 
   
-<li><a target="_blank" href="https://github.com/manjunath5496/Remote-Sensing-Data-Fusion-Papers/blob/master/d(19).pdf" style="text-decoration:none;">Privacy-Preserving Browser-Side Scripting With BFlow</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Remote-Sensing-Data-Fusion-Papers/blob/master/d(19).pdf" style="text-decoration:none;">Data Fusion of Proximal Soil Sensing and Remote Crop Sensing for the Delineation of Management Zones in Arable Crop Precision Farming</a></li> 
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Remote-Sensing-Data-Fusion-Papers/blob/master/d(20).pdf" style="text-decoration:none;">The benefits and costs of writing a
-POSIX kernel in a high-level language</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Remote-Sensing-Data-Fusion-Papers/blob/master/d(20).pdf" style="text-decoration:none;">A review of the role of active remote sensing and data fusion for characterizing forest in wildlife habitat models</a></li>
 
 <li><a target="_blank" href="https://github.com/manjunath5496/Remote-Sensing-Data-Fusion-Papers/blob/master/d(21).pdf" style="text-decoration:none;">Feature Importance Analysis for Local Climate Zone Classification Using a Residual Convolutional Neural Network with Multi-Source Datasets</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Remote-Sensing-Data-Fusion-Papers/blob/master/d(22).pdf" style="text-decoration:none;">A flexible spatiotemporal method for fusing satellite images with different resolutions</a></li> 
@@ -76,9 +75,8 @@ POSIX kernel in a high-level language</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Remote-Sensing-Data-Fusion-Papers/blob/master/d(41).pdf" style="text-decoration:none;">Advances in Multi-Sensor Data Fusion: Algorithms and Applications</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Remote-Sensing-Data-Fusion-Papers/blob/master/d(42).pdf" style="text-decoration:none;">An Introduction to Multisensor Data Fusion</a></li>
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/Remote-Sensing-Data-Fusion-Papers/blob/master/d(43).pdf" style="text-decoration:none;">The Scalable Commutativity Rule:
-Designing Scalable Software for Multicore Processors</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Remote-Sensing-Data-Fusion-Papers/blob/master/d(44).pdf" style="text-decoration:none;">SCTP in Go</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Remote-Sensing-Data-Fusion-Papers/blob/master/d(43).pdf" style="text-decoration:none;">Hyperspectral and Multispectral Data Fusion: A Comparative Review</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Remote-Sensing-Data-Fusion-Papers/blob/master/d(44).pdf" style="text-decoration:none;">Mapping Migratory Bird Prevalence Using Remote Sensing Data Fusion</a></li>
    <li><a target="_blank" href="https://github.com/manjunath5496/Remote-Sensing-Data-Fusion-Papers/blob/master/d(45).pdf" style="text-decoration:none;">Spatiotemporal Fusion of Multisource Remote Sensing Data: Literature Survey, Taxonomy, Principles, Applications, and Future Directions</a></li>  
    
 </ul>
