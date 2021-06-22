@@ -20,10 +20,10 @@
    
  <li><a target="_blank" href="https://github.com/manjunath5496/Remote-Sensing-Data-Fusion-Papers/blob/master/d(10).pdf" style="text-decoration:none;">Integrated fusion of multi-scale polar-orbiting and geostationary satellite observations for the mapping of high spatial and temporal resolution land surface temperature </a></li>                              
 <li><a target="_blank" href="https://github.com/manjunath5496/Remote-Sensing-Data-Fusion-Papers/blob/master/d(11).pdf" style="text-decoration:none;">Unsupervised Sparse Dirichlet-Net for Hyperspectral Image Super-Resolution</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Remote-Sensing-Data-Fusion-Papers/blob/master/d(12).pdf" style="text-decoration:none;">Alpenhorn: Bootstrapping Secure Communication without Leaking Metadata</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Remote-Sensing-Data-Fusion-Papers/blob/master/d(13).pdf" style="text-decoration:none;">Amber: Decoupling User Data from Web Applications</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Remote-Sensing-Data-Fusion-Papers/blob/master/d(12).pdf" style="text-decoration:none;">Representation Learning for Remote Sensing: An Unsupervised Sensor Fusion Approach</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Remote-Sensing-Data-Fusion-Papers/blob/master/d(13).pdf" style="text-decoration:none;">The Role of Sensor Fusion and Remote Emotive Computing (REC) in the Internet of Things</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Remote-Sensing-Data-Fusion-Papers/blob/master/d(14).pdf" style="text-decoration:none;">Quboid: A Workstation for Safer Web Interaction</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Remote-Sensing-Data-Fusion-Papers/blob/master/d(14).pdf" style="text-decoration:none;">Remote Sensing Image Fusion Using Hierarchical Multimodal Probabilistic Latent Semantic Analysis</a></li>
                               
 <li><a target="_blank" href="https://github.com/manjunath5496/Remote-Sensing-Data-Fusion-Papers/blob/master/d(15).pdf" style="text-decoration:none;">Land cover change detection by integrating object-based data blending model of Landsat and MODIS</a></li>
 
@@ -32,8 +32,7 @@
   <li><a target="_blank" href="https://github.com/manjunath5496/Remote-Sensing-Data-Fusion-Papers/blob/master/d(17).pdf" style="text-decoration:none;">Deep Hyperspectral Prior:
 Single-Image Denoising, Inpainting, Super-Resolution</a></li>   
   
-<li><a target="_blank" href="https://github.com/manjunath5496/Remote-Sensing-Data-Fusion-Papers/blob/master/d(18).pdf" style="text-decoration:none;">Labels and Event Processes
-in the Asbestos Operating System</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Remote-Sensing-Data-Fusion-Papers/blob/master/d(18).pdf" style="text-decoration:none;">Optical and Polarimetric SAR Data Fusion Terrain Classification Using Probabilistic Feature Fusion</a></li> 
 
   
 <li><a target="_blank" href="https://github.com/manjunath5496/Remote-Sensing-Data-Fusion-Papers/blob/master/d(19).pdf" style="text-decoration:none;">Privacy-Preserving Browser-Side Scripting With BFlow</a></li> 
