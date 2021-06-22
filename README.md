@@ -4,19 +4,15 @@
 
                              
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Remote-Sensing-Data-Fusion-Papers/blob/master/d(1).pdf" style="text-decoration:none;">CoqIOA: A Formalization of IO Automata in the
-Coq Proof Assistant</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Remote-Sensing-Data-Fusion-Papers/blob/master/d(1).pdf" style="text-decoration:none;">Data fusion in remote sensing: examples</a></li>
 
  <li><a target="_blank" href="https://github.com/manjunath5496/Remote-Sensing-Data-Fusion-Papers/blob/master/d(2).pdf" style="text-decoration:none;">Dual Local-Global Contextual Pathways for Recognition in Aerial Imagery</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Remote-Sensing-Data-Fusion-Papers/blob/master/d(3).pdf" style="text-decoration:none;">A Programming Language
-Based on Classical Logic</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Remote-Sensing-Data-Fusion-Papers/blob/master/d(4).pdf" style="text-decoration:none;">The Scalable Commutativity Rule:
-Designing Scalable Software for Multicore Processors</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Remote-Sensing-Data-Fusion-Papers/blob/master/d(3).pdf" style="text-decoration:none;">Multisource and Multitemporal Data Fusion in Remote Sensing</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Remote-Sensing-Data-Fusion-Papers/blob/master/d(4).pdf" style="text-decoration:none;">Challenges and Opportunities of Multimodality and Data Fusion in Remote Sensing</a></li>                              
 <li><a target="_blank" href="https://github.com/manjunath5496/Remote-Sensing-Data-Fusion-Papers/blob/master/d(5).pdf" style="text-decoration:none;">Generating daily land surface temperature at Landsat resolution by fusing Landsat and MODIS data</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Remote-Sensing-Data-Fusion-Papers/blob/master/d(6).pdf" style="text-decoration:none;">A deep learning framework for matching of SAR and optical imagery</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Remote-Sensing-Data-Fusion-Papers/blob/master/d(7).pdf" style="text-decoration:none;">Asynchronous intrusion recovery
-for interconnected web services</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Remote-Sensing-Data-Fusion-Papers/blob/master/d(7).pdf" style="text-decoration:none;">Comparison and analysis of remote sensing data fusion techniques at feature and decision levels</a></li>
 
  <li><a target="_blank" href="https://github.com/manjunath5496/Remote-Sensing-Data-Fusion-Papers/blob/master/d(8).pdf" style="text-decoration:none;"> A wavelet-artificial intelligence fusion approach (WAIFA) for blending Landsat and MODIS surface temperature</a></li>
    <li><a target="_blank" href="https://github.com/manjunath5496/Remote-Sensing-Data-Fusion-Papers/blob/master/d(9).pdf" style="text-decoration:none;">STAIR 2.0: A Generic and Automatic Algorithm to Fuse Modis, Landsat, and Sentinel-2 to Generate 10 m, Daily, and Cloud-/Gap-Free Surface Reflectance Product</a></li>
